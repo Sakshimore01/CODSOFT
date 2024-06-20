@@ -1,0 +1,1 @@
+Welcome to the Landing Page Website! This project is a clean, responsive, and modern landing page template designed to showcase products, services, or any other type of content. It is built with HTML, CSS, and JavaScript, and can be easily customized to fit your needs.
